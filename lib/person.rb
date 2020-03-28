@@ -20,3 +20,6 @@ def job
 end
 
 end
+
+jim = Person.new("Jimmy")
+puts jim@name
