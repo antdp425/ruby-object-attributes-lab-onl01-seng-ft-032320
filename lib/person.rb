@@ -1,4 +1,4 @@
-class Dog
+class Person
 # def initialize(string)
 #   @name = string
 # end
