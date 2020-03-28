@@ -21,5 +21,6 @@ end
 
 end
 
-jim = Person.new("Jimmy")
+jim = Person.new
+jim.name = "Jim"
 puts jim@name
