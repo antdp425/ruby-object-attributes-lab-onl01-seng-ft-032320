@@ -23,4 +23,4 @@ end
 
 jim = Person.new
 jim.name = "Jim"
-puts jim.name
+puts jim@name
